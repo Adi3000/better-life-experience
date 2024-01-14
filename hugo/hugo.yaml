@@ -24,3 +24,6 @@ menu:
     - name: "Livre d'or"
       url: "https://top.gg/servers/752223731753156689"
       weight: 40
+  social:
+     - name: "Github"
+       url: https://github.com/Adi3000/better-life-experience

@@ -1,0 +1,17 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: 𝐵𝑒𝓉𝓉𝑒𝓇 𝓁𝒾𝒻𝑒 experience
+theme: digitalgarden
+defaultContentLanguage: fr
+languages:
+  en:
+    disabled: false
+    languageName: English
+  fr:
+    disabled: false
+    languageName: Français
+menu:
+  main: 
+    - name: "About"
+      url: "/about/authors"
+      weight: 1

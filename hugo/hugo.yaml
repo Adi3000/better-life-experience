@@ -14,4 +14,13 @@ menu:
   main: 
     - name: "About"
       url: "/about/authors"
-      weight: 1
+      weight: 10
+    - name: "Canaux"
+      url: "/channels/general"
+      weight: 20
+    - name: "Fonctionnalités"
+      url: "/features/resources"
+      weight: 30
+    - name: "Livre d'or"
+      url: "https://top.gg/servers/752223731753156689"
+      weight: 40
